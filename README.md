@@ -1,5 +1,5 @@
-# SIMPLE  SHELL PROJECT \n
-This is an ALX project to create a simple shell by\n 
--Onaga Chinonso \n
--Richard Ogunmiloye
+# SIMPLE  SHELL PROJECT 
+This is an ALX project to create a simple shell by 
+- Onaga Chinonso 
+- Richard Ogunmiloye
 
